@@ -44,7 +44,7 @@ class car_Admin(admin.ModelAdmin):
 
 # OUTPUT
 
-![alt text](<Screenshot 2025-09-26 133510.png>)
+![alt text](<Screenshot 2025-09-26 135041.png>)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
