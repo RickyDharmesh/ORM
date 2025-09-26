@@ -40,9 +40,10 @@ class car(models.Model):
 
 class car_Admin(admin.ModelAdmin):
     list_display=('Plate_No','Car_type','Date','Engine_type')  
-
+```
 
 # OUTPUT
+
 ![alt text](<Screenshot 2025-09-26 133510.png>)
 
 # RESULT
